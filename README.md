@@ -1,7 +1,7 @@
 # WEBPConverter
 Converter from WEBP to PNG
 
-# How to run 
+## How to run 
 
 1. Create a *dest* and *fixtures* folders
 2. Put images who you want to convert in *fixtures* folder
